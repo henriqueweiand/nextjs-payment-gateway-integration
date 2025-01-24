@@ -12,3 +12,4 @@ Article: https://medium.com/nestjs-ninja/how-to-integrate-multiple-payment-gatew
 2. Install the dependencies;
 3. Run project `yarn dev`.
 
+![Preview](https://raw.githubusercontent.com/henriqueweiand/nextjs-payment-gateway-integration/master/assets/preview.png)
