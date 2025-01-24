@@ -4,6 +4,8 @@ This project the frontend implementation that integrates with Stripe to show how
 
 Backend project: https://github.com/henriqueweiand/nestjs-payment-gateway-integration
 
+Article: https://medium.com/nestjs-ninja/how-to-integrate-multiple-payment-gateways-in-nestjs-with-stripe-example-978be76af17f
+
 ### How to run
 
 1. Run the Backend project;
